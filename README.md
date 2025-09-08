@@ -5,8 +5,6 @@ I enjoy exploring patterns in data, building interactive dashboards, and using m
 
 During my studies, I’ve worked on school projects like **Tennessee Energy Consumption Forecasting** and **Sentiment Analysis of Amazon Product Reviews**, which involved Python, machine learning, and visualization. You can check out my other projects [**here**](https://github.com/hamzamsalah/projects/blob/main/README.md#data-science-portfolio).  
 
----
-
 ### 🛠️ Skills & Certifications
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -26,5 +24,3 @@ During my studies, I’ve worked on school projects like **Tennessee Energy Cons
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-0099CC?style=for-the-badge)
 ![Azure DS](https://img.shields.io/badge/Microsoft%20Azure%20Data%20Scientist-0078D7?style=for-the-badge)
-
----
