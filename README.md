@@ -3,7 +3,7 @@
 I’m **Hamza**, a Data Scientist who loves turning data into insights that help people make smarter decisions.  
 I enjoy exploring patterns in data, building interactive dashboards, and using machine learning to solve real-world problems.  
 
-During my studies, I’ve worked on school projects like **Tennessee Energy Consumption Forecasting** and **Sentiment Analysis of Amazon Product Reviews**, which involved Python, machine learning, and visualization. You can check out my other projects [**here**](https://github.com/hamzamsalah/projects/blob/main/README.md#data-science-portfolio).  
+During my studies, I’ve worked on school projects like [**Tennessee Energy Consumption Forecasting**](https://github.com/hamzamsalah/Electricity_Consumption_in_TN?tab=readme-ov-file#tennessee-energy-consumption-forecasting) and [**Sentiment Analysis of Amazon Product Reviews**](https://github.com/hamzamsalah/amazon_reviews/blob/main/README.md#--sentiment-analysis-of-customer-reviews--dsc-550-data-mining), which involved Python, machine learning, and visualization. You can check out my other projects [**here**](https://github.com/hamzamsalah/projects/blob/main/README.md#data-science-portfolio).  
 
 ### 🛠️ Skills & Certifications
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
