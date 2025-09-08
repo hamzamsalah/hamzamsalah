@@ -1,10 +1,3 @@
-<!-- Banner -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://i.ibb.co/6w5J9pH/data-banner-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://i.ibb.co/pRNYz3k/data-banner-light.png">
-  <img alt="Data Science Banner" src="https://i.ibb.co/pRNYz3k/data-banner-light.png">
-</picture>
-
 # Hi there 👋
 
 I’m **Hamza**, a Data Science candidate (M.S., Dec 2025) who loves turning data into insights that help people make smarter decisions.  
